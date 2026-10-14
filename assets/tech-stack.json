@@ -1,0 +1,178 @@
+{
+  "repositoryCount": 23,
+  "totalBytes": 6339293,
+  "languages": [
+    {
+      "name": "Jupyter Notebook",
+      "bytes": 3802691,
+      "percentage": 60,
+      "repositories": [
+        {
+          "name": "kaggle",
+          "url": "https://github.com/marshanabilah/kaggle"
+        },
+        {
+          "name": "disaster-tweets",
+          "url": "https://github.com/marshanabilah/disaster-tweets"
+        },
+        {
+          "name": "recommendation-system",
+          "url": "https://github.com/marshanabilah/recommendation-system"
+        }
+      ]
+    },
+    {
+      "name": "Python",
+      "bytes": 1685648,
+      "percentage": 26.6,
+      "repositories": [
+        {
+          "name": "cross-lingual-evaluation",
+          "url": "https://github.com/marshanabilah/cross-lingual-evaluation"
+        },
+        {
+          "name": "Pemrograman_Jaringan_E_Kelompok_6",
+          "url": "https://github.com/marshanabilah/Pemrograman_Jaringan_E_Kelompok_6"
+        },
+        {
+          "name": "data_parser",
+          "url": "https://github.com/marshanabilah/data_parser"
+        },
+        {
+          "name": "FP_KB",
+          "url": "https://github.com/marshanabilah/FP_KB"
+        },
+        {
+          "name": "task3-pml",
+          "url": "https://github.com/marshanabilah/task3-pml"
+        },
+        {
+          "name": "leetcode",
+          "url": "https://github.com/marshanabilah/leetcode"
+        },
+        {
+          "name": "research-agent",
+          "url": "https://github.com/marshanabilah/research-agent"
+        },
+        {
+          "name": "marshanabilah.github.io",
+          "url": "https://github.com/marshanabilah/marshanabilah.github.io"
+        },
+        {
+          "name": "RAG-and-LangChain",
+          "url": "https://github.com/marshanabilah/RAG-and-LangChain"
+        },
+        {
+          "name": "github.io-backend",
+          "url": "https://github.com/marshanabilah/github.io-backend"
+        },
+        {
+          "name": "flask-random",
+          "url": "https://github.com/marshanabilah/flask-random"
+        },
+        {
+          "name": "pytest",
+          "url": "https://github.com/marshanabilah/pytest"
+        }
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "bytes": 240702,
+      "percentage": 3.8,
+      "repositories": [
+        {
+          "name": "Kuis2",
+          "url": "https://github.com/marshanabilah/Kuis2"
+        },
+        {
+          "name": "pweb_quiz1",
+          "url": "https://github.com/marshanabilah/pweb_quiz1"
+        },
+        {
+          "name": "marshanabilah",
+          "url": "https://github.com/marshanabilah/marshanabilah"
+        },
+        {
+          "name": "task-manager",
+          "url": "https://github.com/marshanabilah/task-manager"
+        },
+        {
+          "name": "marshanabilah.github.io",
+          "url": "https://github.com/marshanabilah/marshanabilah.github.io"
+        }
+      ]
+    },
+    {
+      "name": "MDX",
+      "bytes": 145766,
+      "percentage": 2.3,
+      "repositories": [
+        {
+          "name": "cross-lingual-evaluation",
+          "url": "https://github.com/marshanabilah/cross-lingual-evaluation"
+        }
+      ]
+    },
+    {
+      "name": "Swift",
+      "bytes": 127935,
+      "percentage": 2,
+      "repositories": [
+        {
+          "name": "gmail-api",
+          "url": "https://github.com/marshanabilah/gmail-api"
+        }
+      ]
+    },
+    {
+      "name": "HTML",
+      "bytes": 83699,
+      "percentage": 1.3,
+      "repositories": [
+        {
+          "name": "Kuis2",
+          "url": "https://github.com/marshanabilah/Kuis2"
+        },
+        {
+          "name": "pweb_quiz1",
+          "url": "https://github.com/marshanabilah/pweb_quiz1"
+        },
+        {
+          "name": "marshanabilah.github.io",
+          "url": "https://github.com/marshanabilah/marshanabilah.github.io"
+        },
+        {
+          "name": "task-manager",
+          "url": "https://github.com/marshanabilah/task-manager"
+        },
+        {
+          "name": "flask-random",
+          "url": "https://github.com/marshanabilah/flask-random"
+        }
+      ]
+    },
+    {
+      "name": "TSQL",
+      "bytes": 71809,
+      "percentage": 1.1,
+      "repositories": [
+        {
+          "name": "C4C",
+          "url": "https://github.com/marshanabilah/C4C"
+        }
+      ]
+    },
+    {
+      "name": "C#",
+      "bytes": 62305,
+      "percentage": 1,
+      "repositories": [
+        {
+          "name": "Kuis2",
+          "url": "https://github.com/marshanabilah/Kuis2"
+        }
+      ]
+    }
+  ]
+}

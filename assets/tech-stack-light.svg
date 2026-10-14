@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="398" viewBox="0 0 880 398" role="img" aria-labelledby="title description">
+  <title id="title">Marsha Nabilah tech stack</title>
+  <desc id="description">Language share across 23 eligible public repositories. Select the image to open the interactive repository breakdown.</desc>
+  <rect width="880" height="398" fill="#ffffff" stroke="#d6dede" />
+  <text x="44" y="47" fill="#1f2933" font-family="Georgia, serif" font-size="25">Where the code lives</text>
+  <text x="44" y="75" fill="#4d5c64" font-family="Arial, sans-serif" font-size="14">Detected language bytes across 23 public repositories</text>
+  <line x1="44" y1="94" x2="836" y2="94" stroke="#d6dede" />
+  <g font-family="Arial, sans-serif"><g>
+  <text x="44" y="132" fill="#1f2933" font-size="15">Jupyter Notebook</text>
+  <rect x="220" y="119" width="540" height="16" fill="#e9efef" />
+  <rect x="220" y="119" width="324.0" height="16" fill="#287d7a" />
+  <text x="836" y="132" fill="#1f2933" font-size="14" text-anchor="end">60.0%</text>
+</g>
+<g>
+  <text x="44" y="166" fill="#1f2933" font-size="15">Python</text>
+  <rect x="220" y="153" width="540" height="16" fill="#e9efef" />
+  <rect x="220" y="153" width="143.6" height="16" fill="#287d7a" />
+  <text x="836" y="166" fill="#1f2933" font-size="14" text-anchor="end">26.6%</text>
+</g>
+<g>
+  <text x="44" y="200" fill="#1f2933" font-size="15">JavaScript</text>
+  <rect x="220" y="187" width="540" height="16" fill="#e9efef" />
+  <rect x="220" y="187" width="20.5" height="16" fill="#287d7a" />
+  <text x="836" y="200" fill="#1f2933" font-size="14" text-anchor="end">3.8%</text>
+</g>
+<g>
+  <text x="44" y="234" fill="#1f2933" font-size="15">MDX</text>
+  <rect x="220" y="221" width="540" height="16" fill="#e9efef" />
+  <rect x="220" y="221" width="12.4" height="16" fill="#287d7a" />
+  <text x="836" y="234" fill="#1f2933" font-size="14" text-anchor="end">2.3%</text>
+</g>
+<g>
+  <text x="44" y="268" fill="#1f2933" font-size="15">Swift</text>
+  <rect x="220" y="255" width="540" height="16" fill="#e9efef" />
+  <rect x="220" y="255" width="10.8" height="16" fill="#287d7a" />
+  <text x="836" y="268" fill="#1f2933" font-size="14" text-anchor="end">2.0%</text>
+</g>
+<g>
+  <text x="44" y="302" fill="#1f2933" font-size="15">HTML</text>
+  <rect x="220" y="289" width="540" height="16" fill="#e9efef" />
+  <rect x="220" y="289" width="7.0" height="16" fill="#287d7a" />
+  <text x="836" y="302" fill="#1f2933" font-size="14" text-anchor="end">1.3%</text>
+</g>
+<g>
+  <text x="44" y="336" fill="#1f2933" font-size="15">TSQL</text>
+  <rect x="220" y="323" width="540" height="16" fill="#e9efef" />
+  <rect x="220" y="323" width="5.9" height="16" fill="#287d7a" />
+  <text x="836" y="336" fill="#1f2933" font-size="14" text-anchor="end">1.1%</text>
+</g>
+<g>
+  <text x="44" y="370" fill="#1f2933" font-size="15">C#</text>
+  <rect x="220" y="357" width="540" height="16" fill="#e9efef" />
+  <rect x="220" y="357" width="5.4" height="16" fill="#287d7a" />
+  <text x="836" y="370" fill="#1f2933" font-size="14" text-anchor="end">1.0%</text>
+</g></g>
+</svg>
