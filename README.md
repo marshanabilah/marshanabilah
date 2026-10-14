@@ -5,11 +5,11 @@ I build software and explore machine learning, data, and web technologies.
 ## Tech stack
 
 <!-- tech-stack:start -->
-- Jupyter Notebook — 61.2%
+- Jupyter Notebook — 61.1%
 - Python — 27.1%
-- JavaScript — 3.8%
+- JavaScript — 3.9%
 - MDX — 2.3%
-- Swift — 2.0%
+- Swift — 2.1%
 - HTML — 1.3%
 - TSQL — 1.2%
 - C# — 1.0%
