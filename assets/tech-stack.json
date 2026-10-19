@@ -1,11 +1,11 @@
 {
   "repositoryCount": 23,
-  "totalBytes": 6339293,
+  "totalBytes": 6503302,
   "languages": [
     {
       "name": "Jupyter Notebook",
       "bytes": 3802691,
-      "percentage": 60,
+      "percentage": 58.5,
       "repositories": [
         {
           "name": "kaggle",
@@ -23,20 +23,20 @@
     },
     {
       "name": "Python",
-      "bytes": 1685648,
-      "percentage": 26.6,
+      "bytes": 1748825,
+      "percentage": 26.9,
       "repositories": [
         {
           "name": "cross-lingual-evaluation",
           "url": "https://github.com/marshanabilah/cross-lingual-evaluation"
         },
         {
-          "name": "Pemrograman_Jaringan_E_Kelompok_6",
-          "url": "https://github.com/marshanabilah/Pemrograman_Jaringan_E_Kelompok_6"
-        },
-        {
           "name": "data_parser",
           "url": "https://github.com/marshanabilah/data_parser"
+        },
+        {
+          "name": "Pemrograman_Jaringan_E_Kelompok_6",
+          "url": "https://github.com/marshanabilah/Pemrograman_Jaringan_E_Kelompok_6"
         },
         {
           "name": "FP_KB",
@@ -78,46 +78,35 @@
     },
     {
       "name": "JavaScript",
-      "bytes": 240702,
-      "percentage": 3.8,
+      "bytes": 251784,
+      "percentage": 3.9,
       "repositories": [
         {
           "name": "Kuis2",
           "url": "https://github.com/marshanabilah/Kuis2"
         },
         {
-          "name": "pweb_quiz1",
-          "url": "https://github.com/marshanabilah/pweb_quiz1"
-        },
-        {
           "name": "marshanabilah",
           "url": "https://github.com/marshanabilah/marshanabilah"
         },
         {
-          "name": "task-manager",
-          "url": "https://github.com/marshanabilah/task-manager"
+          "name": "pweb_quiz1",
+          "url": "https://github.com/marshanabilah/pweb_quiz1"
         },
         {
           "name": "marshanabilah.github.io",
           "url": "https://github.com/marshanabilah/marshanabilah.github.io"
-        }
-      ]
-    },
-    {
-      "name": "MDX",
-      "bytes": 145766,
-      "percentage": 2.3,
-      "repositories": [
+        },
         {
-          "name": "cross-lingual-evaluation",
-          "url": "https://github.com/marshanabilah/cross-lingual-evaluation"
+          "name": "task-manager",
+          "url": "https://github.com/marshanabilah/task-manager"
         }
       ]
     },
     {
       "name": "Swift",
-      "bytes": 127935,
-      "percentage": 2,
+      "bytes": 209987,
+      "percentage": 3.2,
       "repositories": [
         {
           "name": "gmail-api",
@@ -126,8 +115,19 @@
       ]
     },
     {
+      "name": "MDX",
+      "bytes": 145766,
+      "percentage": 2.2,
+      "repositories": [
+        {
+          "name": "cross-lingual-evaluation",
+          "url": "https://github.com/marshanabilah/cross-lingual-evaluation"
+        }
+      ]
+    },
+    {
       "name": "HTML",
-      "bytes": 83699,
+      "bytes": 87078,
       "percentage": 1.3,
       "repositories": [
         {
