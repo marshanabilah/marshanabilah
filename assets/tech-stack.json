@@ -1,11 +1,11 @@
 {
   "repositoryCount": 23,
-  "totalBytes": 6503302,
+  "totalBytes": 6514406,
   "languages": [
     {
       "name": "Jupyter Notebook",
       "bytes": 3802691,
-      "percentage": 58.5,
+      "percentage": 58.4,
       "repositories": [
         {
           "name": "kaggle",
@@ -24,7 +24,7 @@
     {
       "name": "Python",
       "bytes": 1748825,
-      "percentage": 26.9,
+      "percentage": 26.8,
       "repositories": [
         {
           "name": "cross-lingual-evaluation",
@@ -105,8 +105,8 @@
     },
     {
       "name": "Swift",
-      "bytes": 209987,
-      "percentage": 3.2,
+      "bytes": 221091,
+      "percentage": 3.4,
       "repositories": [
         {
           "name": "gmail-api",
